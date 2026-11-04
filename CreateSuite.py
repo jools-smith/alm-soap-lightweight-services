@@ -79,3 +79,4 @@ class CreateSuite:
             license_models=models,
             products="".join(products)
         ))
+
